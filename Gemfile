@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+ruby '2.2.1'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -16,6 +16,8 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'therubyracer',  platforms: :ruby
 
 gem 'bootstrap-sass'
+
+gem 'devise'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
