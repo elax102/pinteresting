@@ -5,3 +5,5 @@ This is the piterest sample application for
 
 tutorial by [Mattan Griffel](http://mattgriffel.com)
 followed by [Alex Daivs Jr](http://alexdavisjr.com)
+
+[Link to website](https://alex-onemonth-rails.herokuapp.com/)
